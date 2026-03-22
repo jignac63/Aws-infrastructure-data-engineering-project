@@ -14,7 +14,7 @@ End-to-end Data Engineering project simulating AWS infrastructure capacity plann
 - GitHub Project Structuring and Documentation
 
 Infrastructure Capacity Analytics Pipeline | Python, SQL, Power BI
-	•	Built an end-to-end data engineering workflow transforming raw telecom usage data into infrastructure capacity analytics metrics
-	•	Engineered features such as total traffic demand, capacity risk levels, incident severity and cost-efficiency indicators using Python (Pandas)
-	•	Developed SQL aggregation and ranking queries to identify high-demand and high-risk regions
-	•	Designed an executive Power BI dashboard to support infrastructure expansion planning and cost optimization insights
+•	Built an end-to-end data engineering workflow transforming raw telecom usage data into infrastructure capacity analytics metrics
+•	Engineered features such as total traffic demand, capacity risk levels, incident severity and cost-efficiency indicators using Python (Pandas)
+•	Developed SQL aggregation and ranking queries to identify high-demand and high-risk regions
+•	Designed an executive Power BI dashboard to support infrastructure expansion planning and cost optimization insights
